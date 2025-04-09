@@ -45,7 +45,7 @@ Sistema Linux com os seguintes pacotes instalados:
 Ideal para ambientes corporativos, educacionais ou laboratoriais, onde há múltiplos usuários e é necessário controlar o acesso por setor ou grupo de trabalho.
 
 ## Autor
-Script criado para fins educacionais e automação de ambientes Linux organizacionais.
+Script criado para fins educacionais e organizacionais.
 
 
 #### **💻Feito por Guilherme Gugelmin** 
